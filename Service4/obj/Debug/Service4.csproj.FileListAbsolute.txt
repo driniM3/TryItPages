@@ -1,0 +1,9 @@
+C:\Users\Valdrin\Documents\Insync\drini1991@gmail.com\Visual Studio\Projects\CSE455\Assignment3\TryItPages\Service4\bin\Debug\Service4.exe.config
+C:\Users\Valdrin\Documents\Insync\drini1991@gmail.com\Visual Studio\Projects\CSE455\Assignment3\TryItPages\Service4\bin\Debug\Service4.exe
+C:\Users\Valdrin\Documents\Insync\drini1991@gmail.com\Visual Studio\Projects\CSE455\Assignment3\TryItPages\Service4\bin\Debug\Service4.pdb
+C:\Users\Valdrin\Documents\Insync\drini1991@gmail.com\Visual Studio\Projects\CSE455\Assignment3\TryItPages\Service4\obj\Debug\Service4.csprojResolveAssemblyReference.cache
+C:\Users\Valdrin\Documents\Insync\drini1991@gmail.com\Visual Studio\Projects\CSE455\Assignment3\TryItPages\Service4\obj\Debug\Service4.Form1.resources
+C:\Users\Valdrin\Documents\Insync\drini1991@gmail.com\Visual Studio\Projects\CSE455\Assignment3\TryItPages\Service4\obj\Debug\Service4.Properties.Resources.resources
+C:\Users\Valdrin\Documents\Insync\drini1991@gmail.com\Visual Studio\Projects\CSE455\Assignment3\TryItPages\Service4\obj\Debug\Service4.csproj.GenerateResource.Cache
+C:\Users\Valdrin\Documents\Insync\drini1991@gmail.com\Visual Studio\Projects\CSE455\Assignment3\TryItPages\Service4\obj\Debug\Service4.exe
+C:\Users\Valdrin\Documents\Insync\drini1991@gmail.com\Visual Studio\Projects\CSE455\Assignment3\TryItPages\Service4\obj\Debug\Service4.pdb

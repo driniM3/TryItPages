@@ -1,0 +1,9 @@
+C:\Users\Valdrin\Documents\Insync\drini1991@gmail.com\Visual Studio\Projects\CSE455\Assignment3\TryItPages\TryItPages\bin\Debug\TryItPages.exe.config
+C:\Users\Valdrin\Documents\Insync\drini1991@gmail.com\Visual Studio\Projects\CSE455\Assignment3\TryItPages\TryItPages\bin\Debug\TryItPages.exe
+C:\Users\Valdrin\Documents\Insync\drini1991@gmail.com\Visual Studio\Projects\CSE455\Assignment3\TryItPages\TryItPages\bin\Debug\TryItPages.pdb
+C:\Users\Valdrin\Documents\Insync\drini1991@gmail.com\Visual Studio\Projects\CSE455\Assignment3\TryItPages\TryItPages\obj\Debug\TryItPages.csprojResolveAssemblyReference.cache
+C:\Users\Valdrin\Documents\Insync\drini1991@gmail.com\Visual Studio\Projects\CSE455\Assignment3\TryItPages\TryItPages\obj\Debug\TryItPages.Form1.resources
+C:\Users\Valdrin\Documents\Insync\drini1991@gmail.com\Visual Studio\Projects\CSE455\Assignment3\TryItPages\TryItPages\obj\Debug\TryItPages.Properties.Resources.resources
+C:\Users\Valdrin\Documents\Insync\drini1991@gmail.com\Visual Studio\Projects\CSE455\Assignment3\TryItPages\TryItPages\obj\Debug\TryItPages.csproj.GenerateResource.Cache
+C:\Users\Valdrin\Documents\Insync\drini1991@gmail.com\Visual Studio\Projects\CSE455\Assignment3\TryItPages\TryItPages\obj\Debug\TryItPages.exe
+C:\Users\Valdrin\Documents\Insync\drini1991@gmail.com\Visual Studio\Projects\CSE455\Assignment3\TryItPages\TryItPages\obj\Debug\TryItPages.pdb
